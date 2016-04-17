@@ -1,0 +1,1 @@
+make an orphan branch called rr-cache that will house all conflict resolutions. It should only need to commit the contents of the .git/rr-cache folder in an additive way. Fail fast if this branch has conflicts, but allow git-competent operators to resolve the conflict and manually complete the procedure.
